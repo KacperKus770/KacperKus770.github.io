@@ -60,3 +60,15 @@ a:hover
 	max-height: 500px;
 	max-width: 400px;
 }
+.link {
+                margin-bottom: 37.5px;
+                margin-left: 10px;
+                margin-top: 37.5px;
+                width: 180px;
+                height: 50px;
+                background-color: #D0CDD7;
+                text-align: center;
+                padding-top: 20px;
+                border-radius: 25px;
+                font-size: 17pt;
+}
