@@ -74,3 +74,9 @@ a:hover
                 border-radius: 25px;
                 font-size: 17pt;
 }
+.czesc
+{
+	width: 100px;
+	height:100px;
+	float: top;
+}
