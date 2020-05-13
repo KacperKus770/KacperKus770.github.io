@@ -48,6 +48,7 @@ a:link
    width:90%; 
    background-color: white;
    display: block;
+   target: _self;
 }
 a:visited
 {
