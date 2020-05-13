@@ -46,10 +46,12 @@ img {
 a:visited
 {
    color: white;
+   target: _self;
 }
 a:hover
 {
    color: red;
+   target: _self;
 }
 .message
 {
